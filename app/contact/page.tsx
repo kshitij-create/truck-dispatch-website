@@ -25,7 +25,7 @@ export default function Contact() {
                 <Phone className="w-12 h-12 text-accent mx-auto mb-4" />
                 <h3 className="text-xl font-bold text-foreground mb-2">Phone</h3>
                 <a href="tel:+1234567890" className="text-accent hover:underline font-semibold">
-                  +1 (234) 567-890
+                  +1 5137-789993
                 </a>
                 <p className="text-muted-foreground text-sm mt-1">Call or WhatsApp anytime</p>
               </div>
@@ -97,7 +97,7 @@ export default function Contact() {
                 },
                 {
                   q: "What if I have an urgent load request?",
-                  a: "Call our emergency line at +1 (234) 567-890. We have dispatchers standing by to help.",
+                  a: "Call our emergency line at +1  5137-789993. We have dispatchers standing by to help.",
                 },
                 {
                   q: "How do I update my information?",

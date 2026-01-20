@@ -75,12 +75,12 @@ export function Footer() {
               <li className="flex items-center gap-2 text-white/80">
                 <Phone size={16} />
                 <a href="tel:+1234567890" className="hover:text-white transition-colors">
-                  +1 (234) 567-890
+                  +1 5137-789993
                 </a>
               </li>
               <li className="flex items-center gap-2 text-white/80">
                 <Mail size={16} />
-                <a href="mailto:info@prodispatch.com" className="hover:text-white transition-colors">
+                <a href="mailto: transdispatch@gmail.com" className="hover:text-white transition-colors">
                   info@prodispatch.com
                 </a>
               </li>

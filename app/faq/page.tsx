@@ -93,7 +93,7 @@ export default function FAQ() {
         },
         {
           q: "What if I have an urgent issue?",
-          a: "Call our 24/7 emergency line: +1 (234) 567-890. We have dispatchers standing by.",
+          a: "Call our 24/7 emergency line: +1 5137-789993. We have dispatchers standing by.",
         },
       ],
     },

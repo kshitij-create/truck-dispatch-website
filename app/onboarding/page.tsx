@@ -59,7 +59,7 @@ export default function Onboarding() {
                   <p className="flex items-center justify-center gap-2">
                     <Phone size={18} />{" "}
                     <a href="tel:+1234567890" className="text-accent font-semibold hover:underline">
-                      +1 (234) 567-890
+                      +1 5137-789993
                     </a>
                   </p>
                   <p className="flex items-center justify-center gap-2">
